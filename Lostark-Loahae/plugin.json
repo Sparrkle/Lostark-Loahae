@@ -1,0 +1,12 @@
+{
+  "ID": "546F204A-B1C0-4AA1-B8A4-B7CF59B9FCD2",
+  "ActionKeyword": "la",
+  "Name": "Lostark Loahae",
+  "Description": "Search character for Lost Ark \"Loahae\" in Flow Launcher.",
+  "Author": "Sparrkle",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://https://github.com/Sparrkle/Lostark-Loahae",
+  "IcoPath": "icon.png",
+  "ExecuteFileName": "Lostark.Loahae.dll"
+}

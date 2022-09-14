@@ -1,0 +1,2 @@
+dotnet publish Flow.Launcher.Plugin.MyFlowPlugin -c Release -r win-x64
+Compress-Archive -LiteralPath Lostark-Loahae/bin/Release/win-x64/publish -DestinationPath Lostark-Loahae/bin/MyFlowPlugin.zip -Force
